@@ -1,0 +1,23 @@
+<a [routerLink]="['/detail/map']" class="btn btn-primary"><fa-icon [icon]="icons.faArrowLeft"></fa-icon> Haritaya Geri Dön</a>
+
+<div>
+  <h1 class="mt-4 mb-3">Continent Name: {{param}}</h1>
+  <div class="row">
+    <ng-container *ngFor="let c of userContinentCountries">
+      <div class="col-md-4" *ngIf="c.continent === param">
+        <div class="card text-white mb-3" [ngClass]="{'bg-success':c.type=='import','bg-danger':c.type=='export'}">
+          <div class="card-body">
+            <h4 class="card-title">
+              <img src="https://flagcdn.com/{{c.code}}.svg" width="30" alt="South Africa">
+              {{c.name}} - {{c.type === 'import' ? 'Imported' : 'Exported'}}
+            </h4>
+            <h5><strong>Note:</strong></h5>
+            <p class="card-text">{{c.note}} </p>
+            <h5><strong>Continent:</strong> {{c.continent}}</h5>
+          </div>
+        </div><!-- /.card-body -->
+      </div><!-- /.card -->
+    </ng-container>
+  </div>
+</div>
+

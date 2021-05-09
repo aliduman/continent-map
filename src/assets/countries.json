@@ -1,0 +1,1714 @@
+[
+  {
+    "code": "AF",
+    "name": "Afghanistan",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "AO",
+    "name": "Angola",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "AL",
+    "name": "Albania",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "AE",
+    "name": "United Arab Emirates",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "AM",
+    "name": "Armenia",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "AT",
+    "name": "Austria",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "AZ",
+    "name": "Azerbaijan",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "BI",
+    "name": "Burundi",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "BE",
+    "name": "Belgium",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "BJ",
+    "name": "Benin",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "BF",
+    "name": "Burkina Faso",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "BD",
+    "name": "Bangladesh",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "BG",
+    "name": "Bulgaria",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "BH",
+    "name": "Bahrain",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "BA",
+    "name": "Bosnia and Herzegovina",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "BY",
+    "name": "Belarus",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "BZ",
+    "name": "Belize",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "BO",
+    "name": "Bolivia",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "BN",
+    "name": "Brunei Darussalam",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "BT",
+    "name": "Bhutan",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "BW",
+    "name": "Botswana",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "CF",
+    "name": "Central African Republic",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "CH",
+    "name": "Switzerland",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "CL",
+    "name": "Chile",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "CN",
+    "name": "China",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "CI",
+    "name": "Côte d'Ivoire",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "CM",
+    "name": "Cameroon",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "CD",
+    "name": "Democratic Republic of the Congo",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "CG",
+    "name": "Republic of Congo",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "CO",
+    "name": "Colombia",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "CR",
+    "name": "Costa Rica",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "CU",
+    "name": "Cuba",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "CZ",
+    "name": "Czech Republic",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "DE",
+    "name": "Germany",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "DJ",
+    "name": "Djibouti",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "DK",
+    "name": "Denmark",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "DO",
+    "name": "Dominican Republic",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "DZ",
+    "name": "Algeria",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "EC",
+    "name": "Ecuador",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "EG",
+    "name": "Egypt",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "ER",
+    "name": "Eritrea",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "EE",
+    "name": "Estonia",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "ET",
+    "name": "Ethiopia",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "FI",
+    "name": "Finland",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "FJ",
+    "name": "Fiji",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "GA",
+    "name": "Gabon",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "GB",
+    "name": "United Kingdom",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "GE",
+    "name": "Georgia",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "GH",
+    "name": "Ghana",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "GN",
+    "name": "Guinea",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "GM",
+    "name": "The Gambia",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "GW",
+    "name": "Guinea-Bissau",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "GQ",
+    "name": "Equatorial Guinea",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "GR",
+    "name": "Greece",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "GL",
+    "name": "Greenland",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "GT",
+    "name": "Guatemala",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "GY",
+    "name": "Guyana",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "HN",
+    "name": "Honduras",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "HR",
+    "name": "Croatia",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "HT",
+    "name": "Haiti",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "HU",
+    "name": "Hungary",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "ID",
+    "name": "Indonesia",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "IN",
+    "name": "India",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "IE",
+    "name": "Ireland",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "IR",
+    "name": "Iran",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "IQ",
+    "name": "Iraq",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "IS",
+    "name": "Iceland",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "IL",
+    "name": "Israel",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "IT",
+    "name": "Italy",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "JM",
+    "name": "Jamaica",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "JO",
+    "name": "Jordan",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "JP",
+    "name": "Japan",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "KZ",
+    "name": "Kazakhstan",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "KE",
+    "name": "Kenya",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "KG",
+    "name": "Kyrgyzstan",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "KH",
+    "name": "Cambodia",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "KR",
+    "name": "Republic of Korea",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "XK",
+    "name": "Kosovo",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "KW",
+    "name": "Kuwait",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "LA",
+    "name": "Lao PDR",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "LB",
+    "name": "Lebanon",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "LR",
+    "name": "Liberia",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "LY",
+    "name": "Libya",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "LK",
+    "name": "Sri Lanka",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "LS",
+    "name": "Lesotho",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "LT",
+    "name": "Lithuania",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "LU",
+    "name": "Luxembourg",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "LV",
+    "name": "Latvia",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "MA",
+    "name": "Morocco",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "MD",
+    "name": "Moldova",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "MG",
+    "name": "Madagascar",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "MK",
+    "name": "Macedonia",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "ML",
+    "name": "Mali",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "MM",
+    "name": "Myanmar",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "ME",
+    "name": "Montenegro",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "MN",
+    "name": "Mongolia",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "MZ",
+    "name": "Mozambique",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "MR",
+    "name": "Mauritania",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "MW",
+    "name": "Malawi",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "MY",
+    "name": "Malaysia",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "NA",
+    "name": "Namibia",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "NE",
+    "name": "Niger",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "NG",
+    "name": "Nigeria",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "NI",
+    "name": "Nicaragua",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "NL",
+    "name": "Netherlands",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "NO",
+    "name": "Norway",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "NP",
+    "name": "Nepal",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "NZ",
+    "name": "New Zealand",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "OM",
+    "name": "Oman",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "PK",
+    "name": "Pakistan",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "PA",
+    "name": "Panama",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "PE",
+    "name": "Peru",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "PH",
+    "name": "Philippines",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "PG",
+    "name": "Papua New Guinea",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "PL",
+    "name": "Poland",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "KP",
+    "name": "Dem. Rep. Korea",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "PT",
+    "name": "Portugal",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "PY",
+    "name": "Paraguay",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "PS",
+    "name": "Palestine",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "QA",
+    "name": "Qatar",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "RO",
+    "name": "Romania",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "RU",
+    "name": "Russia",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "RW",
+    "name": "Rwanda",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "EH",
+    "name": "Western Sahara",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "SA",
+    "name": "Saudi Arabia",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "SD",
+    "name": "Sudan",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "SS",
+    "name": "South Sudan",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "SN",
+    "name": "Senegal",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "SL",
+    "name": "Sierra Leone",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "SV",
+    "name": "El Salvador",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "RS",
+    "name": "Serbia",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "SR",
+    "name": "Suriname",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "SK",
+    "name": "Slovakia",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "SI",
+    "name": "Slovenia",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "SE",
+    "name": "Sweden",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "SZ",
+    "name": "Swaziland",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "SY",
+    "name": "Syria",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "TD",
+    "name": "Chad",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "TG",
+    "name": "Togo",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "TH",
+    "name": "Thailand",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "TJ",
+    "name": "Tajikistan",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "TM",
+    "name": "Turkmenistan",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "TL",
+    "name": "Timor-Leste",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "TN",
+    "name": "Tunisia",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "TR",
+    "name": "Turkey",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "TW",
+    "name": "Taiwan",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "TZ",
+    "name": "Tanzania",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "UG",
+    "name": "Uganda",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "UA",
+    "name": "Ukraine",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "UY",
+    "name": "Uruguay",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "UZ",
+    "name": "Uzbekistan",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "VE",
+    "name": "Venezuela",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "VN",
+    "name": "Vietnam",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "VU",
+    "name": "Vanuatu",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "YE",
+    "name": "Yemen",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "ZA",
+    "name": "South Africa",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "ZM",
+    "name": "Zambia",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "ZW",
+    "name": "Zimbabwe",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "SO",
+    "name": "Somalia",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "GF",
+    "name": "France",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "FR",
+    "name": "France",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "ES",
+    "name": "Spain",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "AW",
+    "name": "Aruba",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "AI",
+    "name": "Anguilla",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "AD",
+    "name": "Andorra",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "AG",
+    "name": "Antigua and Barbuda",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "BS",
+    "name": "Bahamas",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "BM",
+    "name": "Bermuda",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "BB",
+    "name": "Barbados",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "KM",
+    "name": "Comoros",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "CV",
+    "name": "Cape Verde",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "KY",
+    "name": "Cayman Islands",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "DM",
+    "name": "Dominica",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "FK",
+    "name": "Falkland Islands",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "FO",
+    "name": "Faeroe Islands",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "GD",
+    "name": "Grenada",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "HK",
+    "name": "Hong Kong",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "KN",
+    "name": "Saint Kitts and Nevis",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "LC",
+    "name": "Saint Lucia",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "LI",
+    "name": "Liechtenstein",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "MF",
+    "name": "Saint Martin (French)",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "MV",
+    "name": "Maldives",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "MT",
+    "name": "Malta",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "MS",
+    "name": "Montserrat",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "MU",
+    "name": "Mauritius",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "NC",
+    "name": "New Caledonia",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "NR",
+    "name": "Nauru",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "PN",
+    "name": "Pitcairn Islands",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "PR",
+    "name": "Puerto Rico",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "PF",
+    "name": "French Polynesia",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "SG",
+    "name": "Singapore",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "SB",
+    "name": "Solomon Islands",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "ST",
+    "name": "São Tomé and Principe",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "SX",
+    "name": "Saint Martin (Dutch)",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "SC",
+    "name": "Seychelles",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "TC",
+    "name": "Turks and Caicos Islands",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "TO",
+    "name": "Tonga",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "TT",
+    "name": "Trinidad and Tobago",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "VC",
+    "name": "Saint Vincent and the Grenadines",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "VG",
+    "name": "British Virgin Islands",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "VI",
+    "name": "United States Virgin Islands",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "CY",
+    "name": "Cyprus",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "RE",
+    "name": "Reunion (France)",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "YT",
+    "name": "Mayotte (France)",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "MQ",
+    "name": "Martinique (France)",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "GP",
+    "name": "Guadeloupe (France)",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "CW",
+    "name": "Curaco (Netherlands)",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  },
+  {
+    "code": "IC",
+    "name": "Canary Islands (Spain)",
+    "selected": false,
+    "out": false,
+    "in": false,
+    "note": ""
+  }
+]
