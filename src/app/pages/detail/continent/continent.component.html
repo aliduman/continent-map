@@ -5,7 +5,7 @@
   <div class="row">
     <ng-container *ngFor="let c of userContinentCountries">
       <div class="col-md-4" *ngIf="c.continent === param">
-        <div class="card text-white mb-3" [ngClass]="{'bg-success':c.type=='import','bg-danger':c.type=='export'}">
+        <div class="card text-white mb-3" [ngClass]="{'bg-success':c.type=='export','bg-danger':c.type=='import'}">
           <div class="card-body">
             <h4 class="card-title">
               <img src="https://flagcdn.com/{{c.code}}.svg" width="30" alt="South Africa">

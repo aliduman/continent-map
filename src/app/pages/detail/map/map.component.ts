@@ -69,9 +69,9 @@ export class MapComponent implements OnInit {
         if (item.type === 'import') {
           importCount++;
         }
-        this.importedPercent = this.countryCount / 100 * importCount;
-        this.exportedPercent = this.countryCount / 100 * exportCount;
       });
+      this.importedPercent = this.countryCount / 100 * importCount;
+      this.exportedPercent = this.countryCount / 100 * exportCount;
     }
   }
 
@@ -216,6 +216,7 @@ export class MapComponent implements OnInit {
   }
 
   countryDelete(): void {
+    this.contextMenuStyle.display = 'none';
     const index = this.selectedCountries.findIndex((s: any) => s.name === this.data.name);
 
     // Silinen ülkenin renk stilini kaldırıyoruz.
@@ -223,7 +224,8 @@ export class MapComponent implements OnInit {
     this.selectedCountries.splice(index, 1);
     this.userData.userId = this.getUserId();
     this.userData.data = this.selectedCountries;
-    this.updateCountryData();
+    this.writeLocalStorage();
+    this.setIEPercents();
   }
 
   updateCountryData(): void {
@@ -237,10 +239,12 @@ export class MapComponent implements OnInit {
     } else {
       this.selectedCountries.push(this.data);
     }
-
     this.userData.userId = this.getUserId();
     this.userData.data = this.selectedCountries;
+    this.writeLocalStorage();
+  }
 
+  writeLocalStorage(): any {
     let realData: any = [];
     let userData: any = localStorage.getItem('userData');
     if (userData !== null && userData !== '') {
