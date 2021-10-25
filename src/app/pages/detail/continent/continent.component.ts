@@ -1,4 +1,4 @@
-import {Component, OnInit} from '@angular/core';
+import {Component, OnInit, OnDestroy} from '@angular/core';
 import {ActivatedRoute} from '@angular/router';
 import {ContinentsService} from '../../../services/continents.service';
 import {faArrowLeft} from '@fortawesome/free-solid-svg-icons';
@@ -17,17 +17,26 @@ interface MapData {
   note: string;
 }
 
+interface UserContinents {
+  name: string;
+  code: string;
+  continent: string;
+  type: string;
+  note: string;
+}
+
 @Component({
   selector: 'app-continent',
   templateUrl: './continent.component.html',
   styleUrls: ['./continent.component.scss']
 })
-export class ContinentComponent implements OnInit {
+export class ContinentComponent implements OnInit, OnDestroy {
 
   param: any;
-  userContinentCountries: any[] = [];
+  userContinentCountries: UserContinents[] = [];
   countries: any;
   icons: any = {faArrowLeft};
+  text = '';
 
   constructor(private route: ActivatedRoute, public continentService: ContinentsService) {
     route.params.subscribe(val => {
@@ -63,5 +72,9 @@ export class ContinentComponent implements OnInit {
         });
       }
     }
+  }// ngOnInıt End
+
+  // make sure to destory the editor
+  ngOnDestroy(): void {
   }
 }

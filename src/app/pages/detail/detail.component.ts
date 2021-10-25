@@ -42,11 +42,11 @@ export class DetailComponent implements OnInit {
       distinctUntilChanged(),
       map(term => term.length < 3 ? []
         : this.countries.filter((v: any) => v.name.toLowerCase().indexOf(term.toLowerCase()) > -1).slice(0, 10))
-    );
+    )
 
   formatter = (x: Countries) => {
     return x.name;
-  };
+  }
 
   constructor(private authService: SocialAuthService,
               private route: ActivatedRoute,

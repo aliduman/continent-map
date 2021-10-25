@@ -16,6 +16,8 @@ import {
 } from 'angularx-social-login';
 import { LogoutComponent } from './pages/logout/logout.component';
 import {FormsModule} from '@angular/forms';
+import {AceEditorModule} from 'ng2-ace-editor';
+
 
 @NgModule({
   declarations: [
@@ -34,6 +36,7 @@ import {FormsModule} from '@angular/forms';
     HttpClientModule,
     SocialLoginModule,
     FormsModule,
+    AceEditorModule,
   ],
   providers: [
     {
